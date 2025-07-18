@@ -1,20 +1,32 @@
-# 🌍 Climate and Environmental Vulnerability Mapping: A GeoAI Demonstration Repository
+# 🔐 GeoLocator: A Location-Integrated Large Multimodal Model (LMM) for Inferring Geo-Privacy
 
-![Auto Assign](https://github.com/gpts-privacy/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-![Proof HTML](https://github.com/gpts-privacy/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Published in Applied Sciences](https://img.shields.io/badge/Journal-Applied%20Sciences-green)
+![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp14167091-blue)
 
-Welcome to the demonstration repository for our GeoAI project on **climate vulnerability and environmental health**, showcasing GitHub capabilities with minimal noise. This repository supports a live webpage, workflows for automation, and links to our research outputs.
+> This repository contains the code, models, and experiments from the paper:  
+> **"GeoLocator: A Location-Integrated Large Multimodal Model (LMM) for Inferring Geo-Privacy"**  
+> Published in *Applied Sciences*, 2024.  
+> 📄 [Read the full paper](https://doi.org/10.3390/app14167091)
 
 ---
 
-## 📰 Project Overview
+## 🧠 Overview
 
-This project focuses on integrating **Geospatial Artificial Intelligence (GeoAI)** to identify, map, and analyze vulnerabilities in climate and environmental health. Using open-source data and modern spatial computing techniques, the project visualizes how climate change, land use, and socioeconomic factors intersect in vulnerable communities.
+With the growing use of large multimodal models (LMMs) like GPT-4, the potential for **geo-privacy breaches** through online image sharing has drastically increased. This project presents **GeoLocator**, a GPT-4-based multimodal model capable of **inferring precise geographic information from images and social media content**.
 
-📖 **Published Paper**  
-Our project has been peer-reviewed and published in the journal *Applied Sciences* (MDPI):  
-**[Climate Change Effects on Environmental Health in Vulnerable Communities](https://www.mdpi.com/2076-3417/14/16/7091)**  
-*Appl. Sci. 2024, 14(16), 7091. DOI: 10.3390/app14167091*
+🛰️ **Goal**: Assess the risks of LMMs in revealing sensitive geographic information  
+🔎 **Approach**: Image + text → inferred location  
+🛡️ **Outcome**: Raise awareness and support ethical GeoAI practices
+
+---
+
+## 📌 Key Contributions
+
+- ✅ Designed **GeoLocator**, an LMM integrated with location inference capabilities  
+- ✅ Evaluated the model using a dataset of geotagged images and text from public sources  
+- ✅ Demonstrated how GPT-4-like models can **infer locations with high accuracy**  
+- ✅ Highlighted ethical challenges and privacy risks in **Open-Source Intelligence (OSINT)** contexts
 
 ---
 

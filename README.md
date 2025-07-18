@@ -56,26 +56,3 @@ You can access all supplementary materials, data, code, and figures used in the 
 │       ├── auto-assign.yml
 │       └── proof-html.yml
 └── README.md                # Project overview (you are here)
-
-
----
-
-### ✅ 📖 Citation（BibTeX 引用）
-
-```markdown
-## 📖 Citation
-
-If you use this project, please cite our paper:
-
-```bibtex
-@article{yang2024geolocator,
-  title={GeoLocator: A Location-Integrated Large Multimodal Model (LMM) for Inferring Geo-Privacy},
-  author={Yang, Yifan and Wang, Siqin and Li, Daoyang and Sun, Shuju and Wu, Qingyang},
-  journal={Applied Sciences},
-  volume={14},
-  number={16},
-  pages={7091},
-  year={2024},
-  publisher={MDPI},
-  doi={10.3390/app14167091}
-}
